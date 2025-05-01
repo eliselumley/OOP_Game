@@ -7,6 +7,7 @@ public class Game {
 
         User player = new User();
         GenerateMove generator = new GenerateMove();
+        //TODO urgent would be to implement interface
         //TODO change this so it follows the rules of the challenge more, asks for a rematch
         //could maybe introduce a jframe with a win/lose pic?
         //maybe introduce game mode where you go as high as you can without losing setting scores
